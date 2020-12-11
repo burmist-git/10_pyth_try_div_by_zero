@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-Date        : Fri Dec 11 12:56:04 CET 2020
+Date        : Fri Dec 11 12:56:00 CET 2020
 Autor       : Leonid Burmistrov
 Description : Simple reminder-training example.
 
